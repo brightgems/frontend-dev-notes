@@ -5,7 +5,7 @@
 1. [Angular Design](https://ant.design/docs/spec/download-cn)
 
 ## 前端开发规范
-2. [Web前端开发规范](https://github.com/maozhenzhong/reading-notes/blob/48a49cd5722a283c6449eedadf418d9db8bcd0ff/%E5%89%8D%E7%AB%AF%E8%A7%84%E8%8C%83/Web%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83%E6%96%87%E6%A1%A3.md)
+2. [Web前端开发规范](https://github.com/brightgems/frontend-dev-notes/blob/master/%E5%89%8D%E7%AB%AF%E8%A7%84%E8%8C%83/README.md)
 
 ## JS框架
 ### React
